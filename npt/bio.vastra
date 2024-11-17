@@ -37,18 +37,20 @@ clear
 echo " vastra - i forgot what i was going to put here ngl"
 echo " \/"
 echo " \/"
-echo " i like \033[1;34mvisual novels\033[0m, horror games, documentaries,"
-echo " and \033[1;37mapple silicon\033[0m."
+echo " i like \033[1;34mvisual novels\033[0m, horror games, JRPGs,"
+echo " documentaries, and \033[1;37mapple silicon\033[0m."
 
 echo ""
 echo " here's more of me, even tho no one asked:"
 echo " (these are only clickable on some term emulators)"
-printf '\e]8;;https://vastrave.neocities.org\e\\ neocities\e]8;;\e\\\n'
-printf '\e]8;;https://guns.lol/vastra\e\\ guns.lol\e]8;;\e\\\n'
+printf '\e]8;;https://mp3.nekoweb.org\e\\ nekoweb\e]8;;\e\\\n'
+printf '\e]8;;https://guns.lol/xo1v\e\\ guns.lol\e]8;;\e\\\n'
+printf '\e]8;;https://qvr.neocities.org\e\\ neocities\e]8;;\e\\\n'
 
 echo ""
-echo " https://vastrave.neocities.org"
-echo " https://guns.lol/vastra"
+echo " https://mp3.nekoweb.org"
+echo " https://guns.lol/xo1v"
+echo " https://qvr.neocities.org"
 
 sleep 7
 echo ""
@@ -87,18 +89,20 @@ clear
 echo " vastra - i forgot what i was going to put here ngl"
 echo " \/"
 echo " \/"
-echo " i like visual novels, horror games, documentaries,"
-echo " and apple silicon."
+echo " i like \033[1;34mvisual novels\033[0m, horror games, JRPGs,"
+echo " documentaries, and apple silicon."
 
 echo ""
 echo " here's more of me, even tho no one asked:"
 echo " (these are only clickable on some term emulators)"
-printf '\e]8;;https://vastrave.neocities.org\e\\ neocities\e]8;;\e\\\n'
-printf '\e]8;;https://guns.lol/vastra\e\\ guns.lol\e]8;;\e\\\n'
+printf '\e]8;;https://mp3.nekoweb.org\e\\ nekoweb\e]8;;\e\\\n'
+printf '\e]8;;https://guns.lol/xo1v\e\\ guns.lol\e]8;;\e\\\n'
+printf '\e]8;;https://qvr.neocities.org\e\\ neocities\e]8;;\e\\\n'
 
 echo ""
-echo " https://vastrave.neocities.org"
-echo " https://guns.lol/vastra"
+echo " https://mp3.nekoweb.org"
+echo " https://guns.lol/xo1v"
+echo " https://qvr.neocities.org"
 
 sleep 7
 echo ""
@@ -108,7 +112,7 @@ echo ""
 
 
 if [ "$(uname)" == "Darwin" ]; then
-echo " [>] i forgot my line"
+echo " [>] i love my apples red"
 sleep 1.4
 bio
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
